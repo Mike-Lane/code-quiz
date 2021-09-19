@@ -17,3 +17,13 @@ header h1 {
     text-align: center;
     font-size: 80px;
 }
+
+header p {
+    padding-top: 25px;
+}
+
+
+/*Main*/
+main{
+    margin-top: 50px;;
+}
