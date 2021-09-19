@@ -1,0 +1,19 @@
+@font-face {
+    font-family: JoseFinSans;
+    src: url(JosefinSans-VariableFont_wght.ttf);
+}
+
+body{
+    font-family: 'JoseFinSans', Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header {
+    padding: 25px;
+
+}
+
+header h1 {
+    text-align: center;
+    font-size: 80px;
+}
