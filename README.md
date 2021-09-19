@@ -12,4 +12,4 @@ In this assignment I've been tasked with creating a timed code quiz that satifie
 
 https://mike-lane.github.io/code-quiz/
 
-<img src="href: ./assets/images/Screenshot-code-quiz.png" />
+<img src="href: ./assets/images/Screenshot-code-quiz.png" width="1074px" height="748px"/>
