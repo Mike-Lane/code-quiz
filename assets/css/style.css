@@ -27,3 +27,12 @@ header p {
 main{
     margin-top: 50px;;
 }
+
+#questions, #end, #highscores {
+    display: none;
+}
+
+#intro p{
+    font-size: 22px;
+}
+
